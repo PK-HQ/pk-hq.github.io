@@ -27,8 +27,4 @@ I am currently a 5th-year Neuroscience PhD candidate at UT Austin advised by Pro
 
 Prior to this, I was a research assistant in the Libedinsky Lab at the N.1 Institute, Singapore. I worked on developing a brain-machine interface implanted in the motor cortex, targeted at quadruplegic patient applications. I received my B.S. in Biology (summa cum laude) at the National University of Singapore.
 
-When I'm not thinking about research, I enjoy cooking, kickboxing and the company of my cat. 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I'm not thinking about research, I enjoy cooking, kickboxing and the company of my cat.
