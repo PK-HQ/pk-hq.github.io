@@ -7,11 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +23,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a 5th-year Neuroscience PhD candidate at UT Austin advised by Professor Eyal Seidemann. My goal is to restore meaningful vision in the blind by building a closed-loop, all-optical neuroprosthetic—one of the most ambitious and unresolved challenges in neuroscience. Here, I propose to reverse engineer the neural code of the visual cortex using novel machine learning architectures, and to exploit its circuitry with light-based stimulation to generate realistic perception in primates. I lead a pioneering effort that integrates optical imaging and stimulation with machine learning—engineering visual neuroprosthetics with real-world utility.
+
+Prior to this, I was a research assistant in the Libedinsky Lab at the N.1 Institute, Singapore. I worked on developing a brain-machine interface implanted in the motor cortex, targeted at quadruplegic patient applications. I received my B.S. in Biology (summa cum laude) at the National University of Singapore.
+
+When I'm not thinking about research, I enjoy cooking, kickboxing and the company of my cat. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
