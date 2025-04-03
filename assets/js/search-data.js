@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-our-work-distinct-lateral-prefrontal-regions-are-organized-in-an-anterior-posterior-functional-gradient-has-been-published-in-jneurosci",
+          title: 'Our work Distinct Lateral Prefrontal Regions Are Organized in an Anterior–Posterior Functional Gradient...',
+          description: "",
+          section: "News",},{id: "news-our-preprint-fast-neural-population-dynamics-in-primate-v1-captured-by-a-genetically-encoded-voltage-indicator-is-available-on-researchsquare",
+          title: 'Our preprint Fast neural population dynamics in primate V1 captured by a genetically-encoded...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
