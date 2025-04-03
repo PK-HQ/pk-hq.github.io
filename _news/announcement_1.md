@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our preprint Fast neural population dynamics in primate V1 captured by a genetically-encoded voltage indicator is available on ResearchSquare
+Our preprint [Fast neural population dynamics in primate V1 captured by a genetically-encoded voltage indicator](https://www.researchsquare.com/article/rs-5851261/v1) is now available on *ResearchSquare*
