@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our work [Distinct Genetic Signatures of Cortical and Subcortical Regions Associated with Human Memory]([https://www.nature.com/articles/s41467-023-42396-y](https://www.eneuro.org/content/6/6/ENEURO.0283-19.2019)) has been published in *eNeuro*
