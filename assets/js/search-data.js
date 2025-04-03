@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-work-distinct-genetic-signatures-of-cortical-and-subcortical-regions-associated-with-human-memory-has-been-published-in-eneuro",
+          title: 'Our work Distinct Genetic Signatures of Cortical and Subcortical Regions Associated with Human...',
           description: "",
           section: "News",},{id: "news-our-work-distinct-lateral-prefrontal-regions-are-organized-in-an-anterior-posterior-functional-gradient-has-been-published-in-jneurosci",
           title: 'Our work Distinct Lateral Prefrontal Regions Are Organized in an Anterior–Posterior Functional Gradient...',
