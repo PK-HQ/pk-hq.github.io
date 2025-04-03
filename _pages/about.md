@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>CV</a>. Github. Contact.
 
 profile:
   align: right
@@ -23,8 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a 5th-year Neuroscience PhD candidate at UT Austin advised by Professor Eyal Seidemann. My goal is to restore meaningful vision in the blind by building a closed-loop, all-optical neuroprosthetic—one of the most ambitious and unresolved challenges in neuroscience. Here, I propose to reverse engineer the neural code of the visual cortex using novel machine learning architectures, and to exploit its circuitry with light-based stimulation to generate realistic perception in primates. I lead a pioneering effort that integrates optical imaging and stimulation with machine learning—engineering visual neuroprosthetics with real-world utility.
+I'm a 5th-year Neuroscience PhD candidate at UT Austin, advised by Prof. Eyal Seidemann. My goal is to restore meaningful vision in the blind by building the next-generation, light-based neuroprosthetic - one of the most ambitious and unresolved challenges in neuroscience. I currently lead a pioneering effort to reverse engineer the neural code of the visual cortex using novel machine learning architectures, and to exploit its circuitry with light-based imaging and stimulation to generate more realistic perception in primates (versus electrophysiology-based implants). This integration of optical imaging and stimulation with machine learning allows us to engineer visual neuroprosthetics with real-world utility in the near future.
 
-Prior to this, I was a research assistant in the Libedinsky Lab at the N.1 Institute, Singapore. I worked on developing a brain-machine interface implanted in the motor cortex, targeted at quadruplegic patient applications. I received my B.S. in Biology (summa cum laude) at the National University of Singapore.
+Prior to this, I was a research assistant in the Libedinsky Lab at the N.1 Institute, Singapore. I worked on developing a brain-machine interface implanted in the motor cortex targeted at quadruplegic patient applications, and the functional parcellation of the macaque lateral prefrontal cortex. I received my B.S. in Biology (summa cum laude) at the National University of Singapore.
 
 When I'm not thinking about research, I enjoy cooking, kickboxing and the company of my cat.
