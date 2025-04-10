@@ -23,7 +23,7 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: 5th-year Graduate Student (PI: Dr. Eyal Seidemann)
+    - title: "5th-year Graduate Student (PI: Dr. Eyal Seidemann)"
       institution: University of Texas at Austin, Interdisciplinary Program for Neuroscience & Center for Theoretical and Computational Neuroscience
       year: 2021 - Present # Adjusted 'Now' to 'Present' for consistency
       description:
@@ -33,19 +33,19 @@
         - Discovered column stimulation recruits similarly-tuned columns
         - Leading project on novel genetically encoded voltage indicators (GEVIs) in primate V1
         - First demonstration of pAce GEVI in macaque V1, outperforming VSD and GCaMP imaging
-    - title: Research Assistant (PI: Drs. Camilo Libedinsky & Shih-Cheng Yen)
+    - title: "Research Assistant (PI: Drs. Camilo Libedinsky & Shih-Cheng Yen)"
       institution: The N.1 Institute for Health, National University of Singapore
       year: 2019 - 2020
       description:
         - Led project on functional specialization of primate dlPFC in working memory
         - Showed functional distinctions in dlPFC subregions using single neurons and populations (First author work)
         - Assisted project on dlPFC encoding of sequential stimuli and 'code morphing'
-    - title: Summer Research Intern (PI: Dr. Camilo Libedinsky)
+    - title: "Summer Research Intern (PI: Dr. Camilo Libedinsky)"
       institution: Singapore Institute for Neurotechnology, National University of Singapore
       year: 2016 # Extracted year range from title line
       description:
         - Assisted characterizing temporal dynamics of macaque motor cortex neurons for BMI wheelchair control
-    - title: Research Assistant (PI: Dr. Po-Jang (Brown) Hsieh)
+    - title: "Research Assistant (PI: Dr. Po-Jang (Brown) Hsieh)"
       institution: Duke-NUS Graduate Medical School, Singapore, Neuroscience and Behavioral Disorders Program
       year: 2014 - 2018
       description:
