@@ -2,75 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Pin Kwang (PK) Tan
-    - name: Email
-      value: pktan@utexas.edu
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: English, Mandarin
-
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: PhD in Neuroscience
-      institution: Interdisciplinary Neuroscience Program, University of Texas at Austin, US
-      year:  Jan 2021 - Now
-      description:
-        - Under the supervision of Dr. Eyal Seidemann.
-        - Funding
-        - Leading project on reverse-engineering the primate cortical code for visual perception with a light-based read-write interface and ML 
-        - Collaboration on testing novel genetically-encoded voltage indicators in the primate V1
-
-    - title: Research Assistant
-      institution: N.1 Insitute of Health, Singapore
-      year: Feb 2019 - Dec 2020
-      description:
-        - Led project on the functional specialization of primate dorsolateral prefrontal cortex (dlPFC) in working memory
-
-    - title: Summer research Intern
-      institution: Libedinsky Lab, SINAPSE, Singapore
-      year: May 2016 - Jul 2016
-      description:
-        - Collaborated on developing neuroprosthetic implanted in the motor cortex for driving a motorized platform, targeted at quadruplegic patients
-        - Assisted in characterizing spatiotemporal dynamics of neurons in the macaque motor cortex for cortical neuroprosthetic algorithm
-
-    - title: Research Assistant
-      institution: Brain and Consciousness Lab, Duke-NUS Graduate Medical School, Singapore
-      year: Sep.19 - Mar.20
-      description:
-        - Led a project to identify genetic signatures of cortical-subcortical areas associated with cognition
-        - Led a project to investigate the parameters that impact unconscious priming
-        - Collaborated in investigating boundaries of unconscious semantic processing
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D in Neuroscience (GPA: 3.99)
-      institution: University of Texas at Austin, Interdisciplinary Neuroscience Program
-      year: 2021 - est. 2026
-      
-    - title: B.Sc. (Hons) Biology (summa cum laude)
-      institution: National University of Singapore
-      year: 2014  -2018
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
-- title: Outreach & community activities
-  type: nested_list
-  contents:
-    - title: Outreach
-      items:
-        - blank
-
-- title: Scholarships & Awards
+- title: Experience
   type: time_table
   contents:
-    - year: 2023
-      title: Institute of Neuroscience, Professional Development Award
-      
-    - year: 2023
-      title: Institute of Neuroscience, Outstanding Poster Award
-      
-    - year: 2017
-      title: Agency for Science, Technology and Research, Singapore (A*STAR), Chairman's Honors List
-      
-    - year: 2015 - 2018
-      title: A*STAR Undergraduate Scholarship
-      description: "Prestigious scholarship to nurture young talent for an exciting and rewarding career in scientific and technological research"
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
