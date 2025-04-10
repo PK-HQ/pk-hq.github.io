@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate at UT Austin, Seidemann Lab
+subtitle: 5th-year PhD candidate @ [Seidemann lab](https://seidemannlab.site/), [UT Austin](https://inp.neuroscience.utexas.edu/)
 
 profile:
   align: right
@@ -19,7 +19,7 @@ announcements:
 
 ---
 
-I'm a 5th-year Neuroscience PhD candidate in the [Seidemann lab](https://seidemannlab.site/) at [UT Austin](https://inp.neuroscience.utexas.edu/). My goal is to restore meaningful vision in the blind by building next-generation light-based neuroprosthetics — one of the most ambitious and unresolved challenges in neuroscience. I lead a pioneering effort to reverse-engineer the neural code of the primate visual cortex using biologically-constrained machine learning architectures, combined with an all-optical read-and-write interface that leverages state-of-the-art neural sensors and actuators to trigger perception. This novel integrative approach redefines the frontier of visual neuroprosthetics — closing the gap between artificial stimulation and the fidelity of natural vision.
+My goal is to restore meaningful vision in the blind by building next-generation light-based neuroprosthetics — one of the most ambitious and unresolved challenges in neuroscience. I lead a pioneering effort to reverse-engineer the neural code of the primate visual cortex using biologically-constrained machine learning architectures, combined with an all-optical read-and-write interface that leverages state-of-the-art neural sensors and actuators to trigger perception. This novel integrative approach redefines the frontier of visual neuroprosthetics — closing the gap between artificial stimulation and the fidelity of natural vision.
 
 Prior to this, I was a research assistant in the [Libedinsky Lab](http://libedinskylab.com/) at the [The N.1 Institute for Health](https://n1labs.org/). I worked on developing a [cortical neuroprosthetic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165773) to enhance mobility in quadruplegic patients, and the [functional organization of the macaque prefrontal cortex](https://www.jneurosci.org/content/43/38/6564.abstract). As a research assistant in the [BAC Lab](https://sites.google.com/site/brainconsciousnesslab/about-us?authuser=0) at [Duke-NUS Medical School](https://www.duke-nus.edu.sg/), where I worked on unconscious visual processing in humans and [integrating human neuroimaging and transcriptomics](https://www.eneuro.org/content/6/6/ENEURO.0283-19.2019). I received my B.S. in Biology (summa cum laude) at the [National University of Singapore](https://nus.edu.sg/).
 
