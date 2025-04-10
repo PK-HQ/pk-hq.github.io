@@ -23,10 +23,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-
-/* Custom styles for publications page - Force override */
-.publications ol.bibliography li {
-  margin-bottom: 0.25em !important; /* Adjust spacing (e.g., 0.5em, 0) - !important added */
-  padding-bottom: 0 !important;   /* Ensure no padding - !important added */
-  border-bottom: none !important; /* Remove border - !important added */
-}
