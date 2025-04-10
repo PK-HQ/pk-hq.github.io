@@ -715,9 +715,9 @@ footer.sticky-bottom {
 
   h2.bibliography {
     color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
+    border-top: 0px solid var(--global-divider-color);
+    padding-top: .25rem;
+    margin-top: .25rem;
     text-align: right;
   }
 
