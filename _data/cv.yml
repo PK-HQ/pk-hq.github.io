@@ -5,60 +5,53 @@
       value: Pin Kwang (PK) Tan
     - name: Email
       value: pktan@utexas.edu
-    - name: Website
-      value: pk-hq.github.io
     - name: Languages
       value: English, Mandarin # User-provided, not explicitly listed in CV text
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Neuroscience
+    - title: PhD in Neuroscience (GPA 3.99)
       institution: University of Texas at Austin, Graduate Program in Neuroscience
       year: 2021 - Dec 2026
       description: GPA 3.99
-    - title: B.Sc. (Hons.) in Life Sciences
+    - title: B.Sc. (Hons.) in Life Sciences (*Summa cum laude*)
       institution: National University of Singapore (NUS)
       year: 2014 - 2018
-      description: Summa cum laude
 
 # Note: Merged 'Positions' from CV into 'Research Experience' for typical structure
 - title: Research Experience
   type: time_table
   contents:
-    - title: 5th-year Graduate Student
+    - title: 5th-year Graduate Student (PI: Dr. Eyal Seidemann)
       institution: University of Texas at Austin, Interdisciplinary Program for Neuroscience & Center for Theoretical and Computational Neuroscience
       year: 2021 - Present # Adjusted 'Now' to 'Present' for consistency
       description:
-        - PI Dr. Eyal Seidemann
         - Leading project on causally testing the role of a columnar-scale code for visual perception in the primate V1
         - Developed simultaneous wide-field calcium imaging-and-optogenetics system
         - Demonstrated single column stimulation sufficiency for feature-specific perception
-        - Discovered single column stimulation recruits similarly-tuned columns
+        - Discovered column stimulation recruits similarly-tuned columns
         - Leading project on novel genetically encoded voltage indicators (GEVIs) in primate V1
         - First demonstration of pAce GEVI in macaque V1, outperforming VSD and GCaMP imaging
-    - title: Research Assistant
+    - title: Research Assistant (PI: Drs. Camilo Libedinsky & Shih-Cheng Yen)
       institution: The N.1 Institute for Health, National University of Singapore
       year: 2019 - 2020
       description:
-        - PIs Dr. Camilo Libedinsky & Dr. Shih-Cheng Yen
         - Led project on functional specialization of primate dlPFC in working memory
         - Showed functional distinctions in dlPFC subregions using single neurons and populations (First author work)
         - Assisted project on dlPFC encoding of sequential stimuli and 'code morphing'
-    - title: Research Intern
-      institution: Duke-NUS Graduate Medical School, Singapore, Neuroscience and Behavioral Disorders Program
-      year: 2014 - 2018
-      description:
-        - PI Dr. Po-Jang (Brown) Hsieh
-        - Led project identifying genetic signatures of cortical-subcortical areas for cognition using neuroimaging and transcriptome maps (First author work)
-        - Led project investigating parameters impacting unconscious priming
-        - Assisted investigating boundaries of unconscious semantic processing
-    - title: Summer Research Intern
+    - title: Summer Research Intern (PI: Dr. Camilo Libedinsky)
       institution: Singapore Institute for Neurotechnology, National University of Singapore
       year: 2016 # Extracted year range from title line
       description:
-        - PI Dr. Camilo Libedinsky
         - Assisted characterizing temporal dynamics of macaque motor cortex neurons for BMI wheelchair control
+    - title: Research Assistant (PI: Dr. Po-Jang (Brown) Hsieh)
+      institution: Duke-NUS Graduate Medical School, Singapore, Neuroscience and Behavioral Disorders Program
+      year: 2014 - 2018
+      description:
+        - Led project identifying genetic signatures of cortical-subcortical areas for cognition using neuroimaging and transcriptome maps (First author work)
+        - Led project investigating parameters impacting unconscious priming
+        - Assisted investigating boundaries of unconscious semantic processing
 
 - title: Awards and Scholarships # Combined Awards and Scholarships
   type: time_table
@@ -71,23 +64,7 @@
       title: A*STAR, Chairman's Honors List
     - year: 2015 - 2018 # Year range adjusted based on CV context
       title: A*STAR Undergraduate Scholarship
-      description: Full Undergraduate Funding at NUS. Prestigious scholarship to nurture young talent for an exciting and rewarding career in scientific and technological research. # Added user description
-
-- title: Publications
-  type: nested_list # Using nested_list for potential details like status
-  contents:
-    - title: Fast neural population dynamics in primate V1 captured by a genetically encoded voltage indicator
-      items:
-        - Jingyang Zhou, Yuzhi Chen, Matt Whitmire, Pin Kwang Tan, Jimin Wu, Ashok Veeraraghavan, Jacob T. Robinson, Wilson Geisler, Vincent A Pieribone, Eyal Seidemann (2025)
-        - Status Under review
-    - title: Distinct lateral prefrontal regions are organized in an anterior-posterior functional gradient
-      items:
-        - Pin Kwang Tan, Cheng Tang, Roger Herikstad, Arunika Pillay, Camilo Libedinsky (2023)
-        - Journal J Neuro
-    - title: Distinct genetic signatures of cortical and subcortical regions associated with human memory
-      items:
-        - Pin Kwang Tan, Egor Ananyev and Po-Jang (Brown) Hsieh (2019)
-        - Journal eNeuro
+      description: Prestigious scholarship to nurture young talent for an exciting and rewarding career in scientific and technological research. # Added user description
 
 - title: Conference Posters (Selected)
   type: nested_list # Good for listing title and venue/details
@@ -110,14 +87,17 @@
     - name: Programming Analysis
       value: High-dimensional neural data, machine learning (pytorch, tensor)
     - name: Animal Research
-      value: Experimental design, macaque training, novel neural recording/stimulation systems, single-unit recording & analysis
+      value: Experimental design, macaque training, invasive neural recording/stimulation systems, single-unit recording & analysis
     - name: Human Research
       value: Experiment design, visual psychophysics data collection/analysis, human neuroimaging/transcriptome dataset analysis
 
 - title: Research Mentorship
   type: time_table
-  contents:
-    - year: Jun 2019 – Jul 2019
-      title: Kate Pearce (MIT undergraduate, Neuroscience)
+  contents:    
+    - year: Jan 2021 – May 2021
+      title: Jacquelyn Paluch (UT undergraduate, Neuroscience    
     - year: Aug 2019 – Apr 2020
       title: Charmaine Ter Li Min (NUS undergraduate, Psychology)
+    - year: Jun 2019 – Jul 2019
+      title: Kate Pearce (MIT undergraduate, Neuroscience)
+
