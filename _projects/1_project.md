@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Light-based read-write interface
-description: with background image
+description:
 img: assets/img/RWsetup.png
 importance: 1
 category: work
