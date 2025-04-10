@@ -4,6 +4,4 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - PK-HQ/colStimPipeline
-  - PK-HQ/convlstmV1
-  - PK-HQ/gradientDLPFC
+
