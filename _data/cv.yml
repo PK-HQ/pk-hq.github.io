@@ -4,7 +4,7 @@
     - name: Full Name
       value: Pin Kwang (PK) Tan
     - name: Email
-      value: pktan@utexas.edu
+      value: pktan @ utexas.edu
     - name: Languages
       value: English, Mandarin # User-provided, not explicitly listed in CV text
 
@@ -14,8 +14,8 @@
     - title: PhD in Neuroscience (GPA 3.99)
       institution: University of Texas at Austin, Graduate Program in Neuroscience
       year: 2021 - Dec 2026
-      description: GPA 3.99
-    - title: B.Sc. (Hons.) in Life Sciences (*Summa cum laude*)
+
+    - title: B.Sc. (Hons.) in Life Sciences (Summa cum laude)
       institution: National University of Singapore (NUS)
       year: 2014 - 2018
 
@@ -42,7 +42,7 @@
         - Assisted project on dlPFC encoding of sequential stimuli and 'code morphing'
     - title: "Summer Research Intern (PI: Dr. Camilo Libedinsky)"
       institution: Singapore Institute for Neurotechnology, National University of Singapore
-      year: 2016 # Extracted year range from title line
+      year: 2016-2016 # Extracted year range from title line
       description:
         - Assisted characterizing temporal dynamics of macaque motor cortex neurons for BMI wheelchair control
     - title: "Research Assistant (PI: Dr. Po-Jang (Brown) Hsieh)"
@@ -65,15 +65,25 @@
     - year: 2015 - 2018 # Year range adjusted based on CV context
       title: A*STAR Undergraduate Scholarship
       description: Prestigious scholarship to nurture young talent for an exciting and rewarding career in scientific and technological research. # Added user description
+      
+- title: Conference Posters (Selected)
+  type: time_table
+  contents:
+    - year: 2023
+      title: Optogenetic stimulation of columns in macaque V1 is sufficient for orientation       
+      description: Pin Kwang Tan, Shun Kobayashi, Spencer Chen, Giacomo Benvenuti, Yuzhi Chen, Eyal Seidemann (SfN & NETI 2023)
 
+    - year: 2019
+      title: Co-existence of functional gradients and segregation within the primate lateral prefrontal cortex
+      description: Pin Kwang Tan, Shih-Cheng Yen, Camilo Libedinsky (2019)
+      
 - title: Conference Posters (Selected)
   type: nested_list # Good for listing title and venue/details
   contents:
     - title: Optogenetic stimulation of columns in macaque V1 is sufficient for orientation perception
       items:
         - Pin Kwang Tan, Shun Kobayashi, Spencer Chen, Giacomo Benvenuti, Yuzhi Chen, Eyal Seidemann (2023)
-        - Presented at SfN Neuroscience 2023
-        - Presented at NETI 2023 # Note Duplicate title, listed both presentations
+        - Presented at SfN Neuroscience 2023 & NETI 2023 # Note Duplicate title, listed both presentations
     - title: Co-existence of functional gradients and segregation within the primate lateral prefrontal cortex
       items:
         - Pin Kwang Tan, Shih-Cheng Yen, Camilo Libedinsky (2019)
@@ -83,19 +93,17 @@
   type: map # Using map for categorized skills
   contents:
     - name: Programming Languages
-      value: Python (Pytorch), MATLAB, bash
-    - name: Programming Analysis
-      value: High-dimensional neural data, machine learning (pytorch, tensor)
-    - name: Animal Research
-      value: Experimental design, macaque training, invasive neural recording/stimulation systems, single-unit recording & analysis
-    - name: Human Research
-      value: Experiment design, visual psychophysics data collection/analysis, human neuroimaging/transcriptome dataset analysis
+      value: Python (PyTorch, scikit-learn), MATLAB
+    - name: Data analytics
+      value: Analysis of electrophysiological neural recording (single-unit), calcium imaging and optogenetic stimulation
+    - name: Research
+      value: Designing human/NHP visual psychophysics experiments, NHP training, invasive neural recordings (ephys/imaging), R&D of light-based read-write system 
 
 - title: Research Mentorship
   type: time_table
   contents:    
     - year: Jan 2021 – May 2021
-      title: Jacquelyn Paluch (UT undergraduate, Neuroscience    
+      title: Jacquelyn Paluch (UT undergraduate, Neuroscience)    
     - year: Aug 2019 – Apr 2020
       title: Charmaine Ter Li Min (NUS undergraduate, Psychology)
     - year: Jun 2019 – Jul 2019
