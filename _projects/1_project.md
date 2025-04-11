@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Light-based neuroprosthetic interface
+title: Light-based, read-write neuroprosthetic interface
 description:
 img: assets/img/RWsetup.png
 importance: 1
