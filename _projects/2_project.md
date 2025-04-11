@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Light-based read-write interface
+title: Reverse-engineering neural code with ML
 description:
 img: assets/img/RWsetup.png
 importance: 1
