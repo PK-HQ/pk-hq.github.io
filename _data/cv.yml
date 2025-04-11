@@ -83,9 +83,9 @@
     - name: Programming Languages
       value: Python (PyTorch, scikit-learn), MATLAB
     - name: Data analytics
-      value: Analysis of electrophysiological neural recording (single-unit), calcium imaging and optogenetic stimulation
+      value: Statistical analysis and modeling of electrophysiological neural recordings, calcium imaging and optogenetic stimulation
     - name: Research
-      value: Designing human/NHP visual psychophysics experiments, NHP training, invasive neural recordings (ephys/imaging), R&D of light-based read-write system 
+      value: Designing human/NHP visual psychophysics experiments, NHP training, invasive neural recordings (ephys/imaging), R & D of light-based read-write system 
 
 - title: Research Mentorship
   type: time_table
