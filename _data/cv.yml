@@ -77,18 +77,6 @@
       title: Co-existence of functional gradients and segregation within the primate lateral prefrontal cortex
       description: Pin Kwang Tan, Shih-Cheng Yen, Camilo Libedinsky (2019)
       
-- title: Conference Posters (Selected)
-  type: nested_list # Good for listing title and venue/details
-  contents:
-    - title: Optogenetic stimulation of columns in macaque V1 is sufficient for orientation perception
-      items:
-        - Pin Kwang Tan, Shun Kobayashi, Spencer Chen, Giacomo Benvenuti, Yuzhi Chen, Eyal Seidemann (2023)
-        - Presented at SfN Neuroscience 2023 & NETI 2023 # Note Duplicate title, listed both presentations
-    - title: Co-existence of functional gradients and segregation within the primate lateral prefrontal cortex
-      items:
-        - Pin Kwang Tan, Shih-Cheng Yen, Camilo Libedinsky (2019)
-        - Presented at SfN Neuroscience 2019
-
 - title: Technical Expertise
   type: map # Using map for categorized skills
   contents:
