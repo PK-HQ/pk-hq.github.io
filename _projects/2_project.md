@@ -2,7 +2,7 @@
 layout: page
 title: Reverse-engineering neural code with ML
 description:
-img: assets/img/RWsetup.png
+img: assets/img/EncDec.png
 importance: 1
 category: work
 related_publications: true
@@ -10,7 +10,7 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/F1_edited.png" title="Read-write project overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/EncDec" title="Encoder-Decoder model overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
