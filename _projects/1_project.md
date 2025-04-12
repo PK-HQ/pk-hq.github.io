@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Light-based, read-write neuroprosthetic interface
-description: Description of the project. img: assets/img/RWsetup.png
+description: Description of the project. 
+img: assets/img/RWsetup.png
 importance: 1
 category: work
 related_publications: false
