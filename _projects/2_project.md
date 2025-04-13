@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reverse-engineering neural code with ML
-description:
+description: Encoder and decoder model of evoked activity from cortical stimulation
 img: assets/img/EncDec.png
 importance: 1
 category: work
