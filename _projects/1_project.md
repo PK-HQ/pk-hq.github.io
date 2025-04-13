@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Light-based, read-write neuroprosthetic interface
-description: Next-generation cortical imaging and stimulation system
+title: Next-generation read-write neuroprosthetic interface
+description: Light-based cortical imaging and stimulation, triggers orientation perception
 img: assets/img/RWsetup.png
 importance: 1
 category: work
