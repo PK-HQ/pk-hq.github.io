@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Light-based, read-write neuroprosthetic interface
-description: Description of the project. 
+description: Next-generation cortical imaging and stimulation system
 img: assets/img/RWsetup.png
 importance: 1
 category: work
