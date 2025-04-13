@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Github/
-title: Github
+permalink: /github/
+title: github
 description: 
 nav: true
 nav_order: 4
