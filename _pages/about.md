@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: '5th-year Neuroscience PhD candidate @ <a href="https://seidemannlab.site/">Seidemann lab</a>, <a href="https://ctcn.utexas.edu/">CTCN</a>, <a href="https://inp.neuroscience.utexas.edu/">UT Austin</a>'
+subtitle: '5th-year Neuroscience PhD candidate @ <a href="https://seidemannlab.site/">Seidemann lab</a> <br> <a href="https://inp.neuroscience.utexas.edu/">INP</a>,<a href="https://ctcn.utexas.edu/">CTCN</a>, <a href="https://www.utexas.edu/">UT Austin</a>'
 profile:
   align: right
   image: PKheadshot2.jpg
