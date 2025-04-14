@@ -13,11 +13,11 @@
   contents:
     - title: "PhD in Neuroscience (GPA: 3.99)"
       institution: Interdisciplinary Program for Neuroscience & Center for Theoretical and Computational Neuroscience, University of Texas at Austin
-      year: 2021 - 12/2026 (est.)
+      year: 01/2021 - 12/2026
 
     - title: B.Sc. (Hons.) in Life Sciences (*Summa cum laude*)
       institution: National University of Singapore (NUS)
-      year: 2014 - 2018
+      year: 08/2014 - 05/2018
 
 # Note: Merged 'Positions' from CV into 'Research Experience' for typical structure
 - title: Research Experience
@@ -25,7 +25,7 @@
   contents:
     - title: "5th-year Graduate Student (PI: Dr. Eyal Seidemann)"
       institution: University of Texas at Austin, Interdisciplinary Program for Neuroscience & Center for Theoretical and Computational Neuroscience
-      year: 2021 - 12/2026 (est.)
+      year: 01/2021 - 12/2026
       description:
         - Leading project on causally testing the role of a columnar-scale code for visual perception in the primate V1
         - Developed simultaneous wide-field calcium imaging-and-optogenetics system
@@ -35,19 +35,19 @@
         - First demonstration of pAce GEVI in macaque V1, outperforming VSD and GCaMP imaging
     - title: "Research Assistant (PI: Drs. Camilo Libedinsky & Shih-Cheng Yen)"
       institution: The N.1 Institute for Health, National University of Singapore
-      year: 2019 - 2020
+      year: 01/2019 - 12/2020
       description:
         - Led project on functional specialization of primate dlPFC in working memory
         - Showed functional distinctions in dlPFC subregions using single neurons and populations (First author work)
         - Assisted project on dlPFC encoding of sequential stimuli and 'code morphing'
     - title: "Summer Research Intern (PI: Dr. Camilo Libedinsky)"
       institution: Singapore Institute for Neurotechnology, National University of Singapore
-      year: 2016-2016 # Extracted year range from title line
+      year: 05/2016-08/2016 # Extracted year range from title line
       description:
         - Assisted characterizing temporal dynamics of macaque motor cortex neurons for BMI wheelchair control
     - title: "Research Assistant (PI: Dr. Po-Jang (Brown) Hsieh)"
       institution: Duke-NUS Graduate Medical School, Singapore, Neuroscience and Behavioral Disorders Program
-      year: 2014 - 2018
+      year: 01/2014 - 12/2018
       description:
         - Led project identifying genetic signatures of cortical-subcortical areas for cognition using neuroimaging and transcriptome maps (First author work)
         - Led project investigating parameters impacting unconscious priming
@@ -72,7 +72,6 @@
     - year: 2023
       title: Optogenetic stimulation of columns in macaque V1 is sufficient for orientation       
       description: Pin Kwang Tan, Shun Kobayashi, Spencer Chen, Giacomo Benvenuti, Yuzhi Chen, Eyal Seidemann (SfN & NETI 2023)
-
     - year: 2019
       title: Co-existence of functional gradients and segregation within the primate lateral prefrontal cortex
       description: Pin Kwang Tan, Shih-Cheng Yen, Camilo Libedinsky (2019)
