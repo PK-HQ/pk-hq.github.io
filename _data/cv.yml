@@ -13,7 +13,7 @@
   contents:
     - title: PhD in Neuroscience (GPA: 3.99)
       institution: Interdisciplinary Program for Neuroscience & Center for Theoretical and Computational Neuroscience, University of Texas at Austin
-      year: 2021 - Dec 2026
+      year: 2021 - 12/2026 (est.)
 
     - title: B.Sc. (Hons.) in Life Sciences (*Summa cum laude*)
       institution: National University of Singapore (NUS)
@@ -25,7 +25,7 @@
   contents:
     - title: "5th-year Graduate Student (PI: Dr. Eyal Seidemann)"
       institution: University of Texas at Austin, Interdisciplinary Program for Neuroscience & Center for Theoretical and Computational Neuroscience
-      year: 2021 - Present # Adjusted 'Now' to 'Present' for consistency
+      year: 2021 - 12/2026 (est.)
       description:
         - Leading project on causally testing the role of a columnar-scale code for visual perception in the primate V1
         - Developed simultaneous wide-field calcium imaging-and-optogenetics system
@@ -90,10 +90,10 @@
 - title: Research Mentorship
   type: time_table
   contents:    
-    - year: Jan 2021 – May 2021
+    - year: 01/2021 – 05/2021
       title: Jacquelyn Paluch (UT undergraduate, Neuroscience)    
-    - year: Aug 2019 – Apr 2020
+    - year: 08/2019 – 04/2020
       title: Charmaine Ter Li Min (NUS undergraduate, Psychology)
-    - year: Jun 2019 – Jul 2019
+    - year: 05/2019 – 07/2019
       title: Kate Pearce (MIT undergraduate, Neuroscience)
 
