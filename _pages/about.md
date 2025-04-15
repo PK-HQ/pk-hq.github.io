@@ -5,7 +5,7 @@ permalink: /
 subtitle: '<b>5th-year Neuroscience PhD candidate</b> @ <a href="https://seidemannlab.site/">Seidemann lab</a>, <a href="https://www.utexas.edu/">UT Austin</a> <br> Depts. of <a href="https://neuroscience.utexas.edu/">Neuroscience</a> & <a href="https://liberalarts.utexas.edu/psychology/">Psychology</a>, <a href="https://inp.neuroscience.utexas.edu/">INP</a>, <a href="https://ctcn.utexas.edu/">CTCN</a>, <a href="https://liberalarts.utexas.edu/cps/">CPS</a>'
 profile:
   align: right
-  image: PKheadshot2_cool.jpg
+  image: PKheadshot2_cool2.jpg
   image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
