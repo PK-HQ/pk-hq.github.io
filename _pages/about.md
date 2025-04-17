@@ -21,4 +21,4 @@ My goal is to restore meaningful vision in the blind by building next-generation
 
 Prior to this, I worked on developing a [cortical neuroprosthetic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165773) to enhance mobility in quadruplegic patients, and [functionally mapped the prefrontal cortex](https://www.jneurosci.org/content/43/38/6564.abstract) ([Libedinsky Lab](http://libedinskylab.com/) @ [The N.1 Institute for Health](https://n1labs.org/)). I also worked on unconscious visual processing and the [genetic signatures of cognition](https://www.eneuro.org/content/6/6/ENEURO.0283-19.2019) ([BAC Lab](https://sites.google.com/site/brainconsciousnesslab/about-us?authuser=0) @ [Duke-NUS Medical School](https://www.duke-nus.edu.sg/)). I received my B.S. in Biology (summa cum laude) at the [National University of Singapore](https://nus.edu.sg/).
 
-Outside of my research, you can find me trying out new recipes, kickboxing, and spending quality time with my cat.
+Outside of work, you can find me trying out new recipes, kickboxing, and spending quality time with my cat.
